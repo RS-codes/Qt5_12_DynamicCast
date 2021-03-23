@@ -1,0 +1,1 @@
+# Qt5_12_DynamicCast
